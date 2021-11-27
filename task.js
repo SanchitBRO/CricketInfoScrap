@@ -186,6 +186,7 @@ function Stats(html, matches) {
         }
     }
     wb.write('Match Number - ' + matches + '.xlsx');
+    
 }
 
 
